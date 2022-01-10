@@ -1,0 +1,68 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: #f4f4f4
+    
+}
+#con{
+    margin-left: 60px
+}
+.col-4.price-1,.col-4.price-2,.col-4.price-3{
+    background: #fff;
+    padding: 20px;
+    width: 300px;
+    border-radius: 20px;
+    margin: 30px;
+    box-shadow: 0px 5px 10px 5px rgba(0,0,255,0.3);
+    transition: 0.6s ease-in-out
+    
+}
+.col-4.price-1:hover{
+    transform: translateY(-20px)
+}
+.col-4.price-2:hover{
+    transform: translateY(-20px)
+}
+.col-4.price-3:hover{
+    transform: translateY(-20px)
+}
+.col-4.price-4:hover{
+    transform: translateY(-20px)
+}
+.price-img{
+    padding: 20px;
+}
+.price-img img{
+    
+    width: 100%
+}
+.title{
+    margin: 120px 10px 0px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #6C63FF
+}
+.script{
+    text-align: center;
+    color: #6C63FF;
+}
+.script .money{
+    font-size: 40px;
+    font-weight: 670;
+    
+}
+.script .supper{
+    font-size: 29px;
+    font-weight: 550
+}
+.sub-title{
+    text-align: center;
+}
+.sub-title h4{
+    font-size: 16px;
+    color: #6c63ff;
+    font-weight: 300;
+    padding-bottom: 20px
+}
