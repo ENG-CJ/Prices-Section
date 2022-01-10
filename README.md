@@ -1,4 +1,4 @@
 # Prices-Section
-Prices-Cards Using (HTML CSS BOOTSTRAP)
+Price-Cards Using (HTML CSS BOOTSTRAP)
 ## Thumbnail
 ![](Prices-section.PNG)
